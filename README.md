@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tartignaule
+- <> sunday developer
+- Python ; CSS & HTML
