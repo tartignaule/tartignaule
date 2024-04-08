@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @tartignaule
-- <> Sunday developer
-- Python ; CSS & HTML
+- In first year of BUT network and telecom at Saint-Malo
