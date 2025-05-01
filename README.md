@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @tartignaule
-- In first year of BUT network and telecom at Saint-Malo
+- In second year of BUT network and telecom at Saint-Malo
