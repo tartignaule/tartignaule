@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @tartignaule
-- In second year of BUT network and telecom at Saint-Malo
+Work-study network engineer @RENATER
